@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">USB打印DEMO</string>
+    <string name="open_the_serial_port">打开串口</string>
+    <string name="search_printer">搜索打印机</string>
+    <string name="test_printer">测试打印</string>
+    <string name="connecting1">连接中</string>
+    <string name="printer_connection_failure">打印机连接失败！</string>
+    <string name="app_stop">程序错误</string>
+    <string name="printer_out_of_paper">打印机缺纸</string>
+    <string name="connected">已连接</string>
+    <string name="unconnected">未连接</string>
+    <string name="printer_connected">打印机已连接</string>
+    <string name="connection_state">连接状态:</string>
+
+    <!--NormalPrint button  -->
+    <string name="printtext">打印文本</string>
+    <string name="printbarcode">打印条形码</string>
+    <string name="printqrcode">打印二维码</string>
+    <string name="printpicture">打印图 片</string>
+    <string name="printtestpage">打印测试页</string>
+    <string name="check_for_paper">检查是否有纸</string>
+    <string name="cuttall_paper">全切</string>
+    <string name="cutting_paper">半切纸</string>
+    <string name="queue_print">队列打印</string>
+    <!-- Toast -->
+    <string name="no_printed_pictures">没有打印的图片</string>
+    <string name="printer_have_paper">打印机有纸</string>
+    <string name="printer_does_not_have_paper">打印机没有纸</string>
+    <string name="successful_connection_printer">连接打印机成功</string>
+    <string name="printer_is_disconnected">打印机断开连接</string>
+</resources>
